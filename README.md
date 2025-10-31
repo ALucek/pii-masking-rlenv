@@ -1,8 +1,8 @@
-# PII Masking Environment
+# PII Masking RL Environment
 
-A PII masking environment made with [verifiers](https://github.com/PrimeIntellect-ai/verifiers)
+A PII masking RL environment made with [verifiers.](https://github.com/PrimeIntellect-ai/verifiers)
 
-See this environment in the Prime Intellect Environments Hub Here: https://app.primeintellect.ai/dashboard/environments/adamlucek/pii-masking
+See this environment on the Prime Intellect Environments Hub Here: https://app.primeintellect.ai/dashboard/environments/adamlucek/pii-masking
 
 ### Overview
 - **Environment ID**: `pii-masking`
