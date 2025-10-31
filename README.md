@@ -4,6 +4,9 @@ A PII masking RL environment made with [verifiers.](https://github.com/PrimeInte
 
 See this environment on the Prime Intellect Environments Hub Here: https://app.primeintellect.ai/dashboard/environments/adamlucek/pii-masking
 
+This environment has been used to train:
+- [AdamLucek/Qwen3-4B-Instruct-2507-PII-RL](https://huggingface.co/AdamLucek/Qwen3-4B-Instruct-2507-PII-RL)
+
 ### Overview
 - **Environment ID**: `pii-masking`
 - **Short description**: Evaluates models' ability to identify and mask personally identifiable information (PII) in text by replacing it with `[PII]` tags.
